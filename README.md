@@ -13,7 +13,7 @@ Dictionary methods: get(), update(), pop(), setdefault(), fromkeys(), etc.
 
 Iterating over dictionaries (keys(), values(), items())
 
-Dictionary comprehension
+Dictionary comprehension:
 
 Handling nested dictionaries
 
