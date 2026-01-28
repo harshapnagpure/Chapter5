@@ -3,9 +3,9 @@
 This repository contains Python code examples and exercises focused on Dictionaries and Sets, based on tutorials and lessons learned from CodeWithHarry
 .
 
-Topics Covered
+Topics Covered:
 
-Dictionaries
+Dictionaries:
 
 Creating and accessing dictionaries
 
